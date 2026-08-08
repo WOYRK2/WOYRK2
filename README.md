@@ -1,6 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Linux+no+one+love)](https://git.io/typing-svg)
+
 <!-- Картинка по центру -->
 <div align="center">
-  <img src="image.png" width="200"/>
+  <img src="image.png" width="400"/>
 </div>
 
 <br/>
