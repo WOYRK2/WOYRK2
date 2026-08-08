@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOYRK2&layout=compact&theme=dark)
+![Описание](image.png)
 
 
 <!--
