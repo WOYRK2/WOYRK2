@@ -1,17 +1,42 @@
-![Описание](image.png)
+<!-- Картинка по центру -->
+<div align="center">
+  <img src="image.png" width="200"/>
+</div>
 
+<br/>
 
-<!--
-**WOYRK2/WOYRK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Языки программирования -->
+<div align="center">
 
-Here are some ideas to get you started:
+  <h3>🛠️ Языки программирования</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <span style="background-color:#6A0DAD; color:white; padding:10px 20px; border-radius:20px; margin:6px; display:inline-block; font-weight:bold;">
+    🐍 Python
+  </span>
+
+  <span style="background-color:#6A0DAD; color:white; padding:10px 20px; border-radius:20px; margin:6px; display:inline-block; font-weight:bold;">
+    ⚙️ C++
+  </span>
+
+  <span style="background-color:#6A0DAD; color:white; padding:10px 20px; border-radius:20px; margin:6px; display:inline-block; font-weight:bold;">
+    🔷 C#
+  </span>
+
+</div>
+
+<br/>
+
+<!-- Операционные системы -->
+<div align="center">
+
+  <h3>💻 Операционные системы</h3>
+
+  <span style="background-color:#6A0DAD; color:white; padding:10px 20px; border-radius:20px; margin:6px; display:inline-block; font-weight:bold;">
+    🪟 Windows
+  </span>
+
+  <span style="background-color:#6A0DAD; color:white; padding:10px 20px; border-radius:20px; margin:6px; display:inline-block; font-weight:bold;">
+    🐧 Linux
+  </span>
+
+</div>
